@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+  font-weight: 300; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #231952;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  
+
+  h1 {
+    color: #FF69B4; 
+  }
+  
+  .quadrado {
+    background-color: #231952; 
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 13px;
+    color: white; 
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+ 
+  
